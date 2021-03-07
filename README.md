@@ -6,7 +6,6 @@ For Frontend:
 Java
 
 For Backend:
-Php
 MySql
 
 Steps to be followed after cloning the project
