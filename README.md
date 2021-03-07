@@ -4,9 +4,6 @@ This project is very useful as it helps the user and the admin to keep a track o
 
 For Frontend:
 Java
-HTML
-CSS
-JavaScript
 
 For Backend:
 Php
